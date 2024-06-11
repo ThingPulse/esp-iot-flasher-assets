@@ -1,0 +1,57 @@
+[
+    {
+        "id": "epulse-feather",
+        "name": "ePulse Feather",
+        "imageSource": "assets/feather/epulsefeather.jpg",
+        "partitions": [{
+            "name": "Firmware",
+            "data": [],
+            "offset": 0,
+            "url": "./assets/feather/app-firmware.bin"
+        }]
+    }, 
+    {
+        "id": "epulse-feather-c6",
+        "name": "ePulse Feather C6",
+        "imageSource": "assets/featherC6/epulsefeather_c6.jpg",
+        "partitions": [{
+            "name": "Firmware",
+            "data": [],
+            "offset": 0,
+            "url": "./assets/featherC6/app-firmware.bin"
+        }]
+    }, 
+    {
+        "id": "pendrive-s3-128mb",
+        "name": "Pendrive S3 - 128MB",
+        "imageSource": "assets/pendrive-s3/pendrive-s3.jpg",
+        "partitions": [{
+            "name": "Firmware",
+            "data": [],
+            "offset": 0,
+            "url": "./assets/pendrive-s3/app-firmware.bin"
+        }]
+    }, 
+    {
+        "id": "espgateway",
+        "name": "ESPGateway Duo",
+        "imageSource": "assets/espgateway/espgateway.jpg",
+        "partitions": [{
+            "name": "Firmware",
+            "data": [],
+            "offset": 0,
+            "url": "./assets/espgateway/app-firmware.bin"
+        }]
+    },
+    {
+        "id": "espgateway-ethernet",
+        "name": "ESPGateway Ethernet",
+        "imageSource": "assets/espgateway-ethernet/espgateway.jpg",
+        "partitions": [{
+            "name": "Firmware",
+            "data": [],
+            "offset": 0,
+            "url": "./assets/espgateway-ethernet/app-firmware.bin"
+        }]
+    }
+] 
