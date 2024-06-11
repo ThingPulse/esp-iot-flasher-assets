@@ -23,7 +23,7 @@
     }, 
     {
         "id": "pendrive-s3-128mb",
-        "name": "Pendrive S3 - 128MB Testing",
+        "name": "Pendrive S3 - 128MB",
         "imageSource": "assets/pendrive-s3/pendrive-s3.jpg",
         "partitions": [{
             "name": "Firmware",
