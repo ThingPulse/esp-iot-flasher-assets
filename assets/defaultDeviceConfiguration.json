@@ -56,6 +56,18 @@
     ]
   },
   {
+    "id": "espgateway-ethernet",
+    "name": "ESPGateway Ethernet",
+    "imageSource": "assets/espgateway-ethernet/espgateway.jpg",
+    "partitions": [{
+        "name": "Firmware",
+        "data": [],
+        "offset": 0,
+        "url": "./assets/espgateway-ethernet/app-firmware.bin",
+        "md5": "32eb2e9a0be67541cf80550b31b4b6ef"
+    }]
+  },
+  {
     "id": "tbridge02",
     "name": "Theengs Bridge v1.1",
     "imageSource": "assets/tbridge02/tbridge02.png",
